@@ -1,0 +1,51 @@
+body{
+    font-size: 20px;
+}
+p.uno{
+    font-size: 100%;
+    color: blue;
+}
+hr{
+    width: 50%;
+}
+p.dos{
+    color: red;
+    font-size: 200%;
+}
+p.tres{
+    color: green;
+    font-size: 50%;
+}
+div.cuatro{
+    font-size: 200%;
+}
+p.cuatro{
+    font-size: 200%;
+}
+p.cinco{
+font-family: serif; 
+border: red 1rem solid;
+}
+p.seis{
+    font-family: sans-serif;
+    border: blue 1rem solid;
+}
+p.siete{
+    font-family: 'Courier New', Courier, monospace;
+    border: green 1rem solid;
+}
+p.ocho{
+    border: red 1em solid;
+}
+p.nueve{
+    border: blue 1em solid;
+}
+p.diez{
+    border: green 1em solid;
+}
+p.once{
+    height: 100vwmin;
+    width: 100vwmin;
+    border: red 1em solid;
+    background-color: yellow;
+}
